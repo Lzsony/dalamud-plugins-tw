@@ -90,7 +90,7 @@
   {
     "Author": "NightmareXIV",
     "Name": "AntiAfkKick",
-    "InternalName": "AntiAfkKick",
+    "InternalName": "AntiAfkKick-Dalamud",
     "AssemblyVersion": "2.1.0.8",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
@@ -195,8 +195,8 @@
     "DalamudApiLevel": 12,
     "Punchline": "採集職業助手",
     "Description": "該工具旨在透過輔助採集來增強您的遊戲體驗，現在更可透過虛擬導航網格 (vnavmesh) 實現自動路線規劃。",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/Gatherbuddy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/Gatherbuddy/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/GatherBuddy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/GatherBuddy/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png"
   },
   {
@@ -367,15 +367,15 @@
   },
   {
     "Author": "AZ",
-    "Name": "DPSMeter",
-    "InternalName": "DPSMeter",
+    "Name": "FF14DPSMeter",
+    "InternalName": "FF14DPSMeter",
     "AssemblyVersion": "1.0.0.0",
     "ApplicableVersion": "any",
     "Punchline": "統計DPS",
     "Description": "即時追蹤副本中的傷害統計，顯示隊伍的DPS、總傷害和傷害占比。",
     "DalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/DPSMeter/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/DPSMeter/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/FF14DPSMeter/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/FF14DPSMeter/latest.zip"
   },
   {
     "Author": "53m1k0l0n/Gidedin (Puni.sh)",
@@ -429,8 +429,8 @@
     "Punchline": "自動確認視窗",
     "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
     "DalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/YesAlready/YesAlready.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/YesAlready/YesAlready.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/YesAlready/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/YesAlready/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/PunishXIV/YesAlready/refs/heads/master/Assets/yesalready_icon.png"
   },
   {
@@ -562,6 +562,25 @@
       "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image3.png",
       "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image2.png",
       "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image1.png"
+    ]
+  },
+  {
+    "Author": "veyn, xan_0",
+    "Name": "Boss Mod",
+    "InternalName": "BossMod",
+    "AssemblyVersion": "0.1.4.0",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+    "Punchline": "Don't fail at raid mechanics anymore",
+    "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/BossMod/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lzsony/dalamud-plugins-tw/main/plugins/BossMod/latest.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+      "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+      "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
     ]
   }
 ]
